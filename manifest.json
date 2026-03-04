@@ -1,0 +1,29 @@
+{
+  "name": "Magic Rocket",
+  "short_name": "Magic Rocket",
+  "description": "https://1234567890.ychive.com\nipfs://1234567890.web3",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#00081c",
+  "theme_color": "#4488ff",
+  "orientation": "any",
+  "categories": [
+    "music",
+    "entertainment"
+  ],
+  "lang": "en-US",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
