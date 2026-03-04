@@ -949,7 +949,7 @@
   <script type="text/javascript">
     // Query parameter handling
     function parseUrlParams() {
-      const params = new URLSearchParams(window.location.search);
+      var params = new URLSearchParams(window.location.search);
       return {
         language: params.get('l') || 'en',
         trackId: params.get('t') ? parseInt(params.get('t'), 10) : null
@@ -957,10 +957,10 @@
     }
 
     function updateUrlParams(trackId) {
-      const url = new URL(window.location);
+      var url = new URL(window.location);
       url.searchParams.set('l', state.language);
       if (trackId !== null && trackId !== undefined) {
-        const track = state.tracks[trackId];
+        var track = state.tracks[trackId];
         if (track) {
           url.searchParams.set('t', track.i);
         }
@@ -971,9 +971,9 @@
     }
 
     function getShareUrl(trackId) {
-      const url = new URL(window.location.origin + window.location.pathname);
+      var url = new URL(window.location.origin + window.location.pathname);
       url.searchParams.set('l', state.language);
-      const track = state.tracks[trackId];
+      var track = state.tracks[trackId];
       if (track) {
         url.searchParams.set('t', track.i);
       }
@@ -982,7 +982,7 @@
 
     // Modal management
     function openModal(modalId) {
-      const modal = document.getElementById(modalId);
+      var modal = document.getElementById(modalId);
       if (modal) {
         modal.classList.add('active');
         modal.setAttribute('aria-hidden', 'false');
@@ -994,7 +994,7 @@
     }
 
     function closeModal(modalId) {
-      const modal = document.getElementById(modalId);
+      var modal = document.getElementById(modalId);
       if (modal) {
         modal.classList.remove('active');
         modal.setAttribute('aria-hidden', 'true');
@@ -1005,7 +1005,7 @@
 
     function handleEscKey(e) {
       if (e.key === 'Escape') {
-        const activeModal = document.querySelector('.modal.active');
+        var activeModal = document.querySelector('.modal.active');
         if (activeModal) {
           closeModal(activeModal.id);
         }
@@ -1018,7 +1018,7 @@
         await navigator.clipboard.writeText(text);
 
         // Visual feedback
-        const originalText = button.querySelector('.copy-text').textContent;
+        var originalText = button.querySelector('.copy-text').textContent;
         button.querySelector('.copy-text').textContent = 'Copied!';
         button.classList.add('copied');
 
@@ -1424,29 +1424,30 @@
 
   <script>
     window.sitename = '1234567890';
-const FEATURED_ID = 21;
-const LANG_NAMES = {
+var FEATURED_ID = 21;
+var LANG_NAMES = {
   all: 'All Languages',
   en: 'English',
   es: 'Español',
   ru: 'Русский',
   de: 'Deutsch',
   fr: 'Français',
-  zh: '中文',
-  ar: 'العربية',
-  ja: '日本語',
-  pl: 'Polski',
-  uk: 'Українська',
-  tr: 'Türkçe',
-  kz: 'Қазақша',
-  ro: 'Română',
-  hy: 'Հայերեն',
-  az: 'Azərbaycanca',
-  he: 'עברית',
-  fa: 'فارسی'
+  it: 'Italiano',
+  // zh: '中文',
+  // ar: 'العربية',
+  // ja: '日本語',
+  // pl: 'Polski',
+  // uk: 'Українська',
+  // tr: 'Türkçe',
+  // kz: 'Қазақша',
+  // ro: 'Română',
+  // hy: 'Հայերեն',
+  // az: 'Azərbaycanca',
+  // he: 'עברית',
+  // fa: 'فارسی'
 };
 
-const state = {
+var state = {
   hostname: window.location.hostname,
   language: 'en',
   tracks: [],
@@ -1460,25 +1461,7 @@ const state = {
 };
 
 let audioContext, analyser, dataArray, bufferLength, audioSource;
-const audio = document.getElementById('audioElement');
-// const bgVideo = document.getElementById('bgVideo');
-
-// // Video background initialization
-// function initVideo() {
-//   bgVideo.addEventListener('loadeddata', () => {
-//     bgVideo.play().catch(err => {
-//       console.log('Video autoplay prevented:', err);
-//     });
-//   });
-
-//   document.addEventListener('visibilitychange', () => {
-//     if (document.hidden) {
-//       bgVideo.pause();
-//     } else {
-//       bgVideo.play();
-//     }
-//   });
-// }
+var audio = document.getElementById('audioElement');
 
 // Audio context initialization
 function initAudioContext() {
@@ -1501,8 +1484,8 @@ function initAudioContext() {
 
 // Visualizer
 function drawVisualizer() {
-  const canvas = document.getElementById('visualizer');
-  const ctx = canvas.getContext('2d');
+  var canvas = document.getElementById('visualizer');
+  var ctx = canvas.getContext('2d');
   canvas.width = canvas.offsetWidth;
   canvas.height = canvas.offsetHeight;
 
@@ -1516,15 +1499,15 @@ function drawVisualizer() {
     ctx.fillStyle = 'rgba(10, 0, 0, 0.5)';
     ctx.fillRect(0, 0, canvas.width, canvas.height);
 
-    const barWidth = (canvas.width / bufferLength) * 2.5;
+    var barWidth = (canvas.width / bufferLength) * 2.5;
     let x = 0;
 
     for (let i = 0; i < bufferLength; i++) {
-      const barHeight = (dataArray[i] / 255) * canvas.height * 0.8;
+      var barHeight = (dataArray[i] / 255) * canvas.height * 0.8;
 
-      const r = 139 + (dataArray[i] / 2);
-      const g = 0;
-      const b = dataArray[i] / 3;
+      var r = 139 + (dataArray[i] / 2);
+      var g = 0;
+      var b = dataArray[i] / 3;
 
       ctx.fillStyle = `rgb(${r}, ${g}, ${b})`;
       ctx.fillRect(x, canvas.height - barHeight, barWidth, barHeight);
@@ -1550,16 +1533,16 @@ function loadTracks() {
 }
 
 function updateTrackCount() {
-  const count = state.tracks.filter(t => t.a === 0).length;
+  var count = state.tracks.filter(t => t.a === 0).length;
   document.getElementById('trackCount').textContent = `${count} tracks`;
 }
 
 function renderTrackList() {
-  const container = document.getElementById('trackList');
+  var container = document.getElementById('trackList');
   container.innerHTML = '';
 
   state.tracks.forEach((track, index) => {
-    const div = document.createElement('div');
+    var div = document.createElement('div');
     div.className = 'track-item' + (track.a === 1 ? ' is-alt' : '');
     if (index === state.currentIndex) div.classList.add('playing');
 
@@ -1568,7 +1551,7 @@ function renderTrackList() {
       <div class="track-title">${track.t}</div>
       ${track.a === 1 ? '<span class="track-alt-label">ALT</span>' : ''}
       ${state.language === 'all' ? `<span class="track-lang-label">${LANG_NAMES[track.lang] || track.lang}</span>` : ''}
-      <span class="offline-badge" data-track="tracks-${track.lang}-${track.f}" style="display:none">
+      <span class="offline-badge" data-track="${track.f}" style="display:none">
         <svg width="12" height="12" fill="currentColor" viewBox="0 0 16 16">
           <path d="M10.5 8a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0z"/>
           <path d="M0 8s3-5.5 8-5.5S16 8 16 8s-3 5.5-8 5.5S0 8 0 8zm8 3.5a3.5 3.5 0 100-7 3.5 3.5 0 000 7z"/>
@@ -1576,7 +1559,7 @@ function renderTrackList() {
         Offline
       </span>
       <button class="play-btn-small">${index === state.currentIndex && state.isPlaying ? '⏸' : '▶'}</button>
-      <a href="${state.hostname === window.sitename ? `${track.d}/${track.f}` : `${track.f}`}" download="tracks-${track.lang}-${track.f}" class="download-btn-small" title="Download" onclick="event.stopPropagation()">
+      <a href="${state.hostname === window.sitename ? `${track.d}/${track.f}` : `${track.f}`}" download="${track.f}" class="download-btn-small" title="Download" onclick="event.stopPropagation()">
         <svg width="14" height="14" fill="currentColor" viewBox="0 0 16 16">
           <path d="M8 12L3 7h3V1h4v6h3z"/>
           <path d="M1 14h14v2H1z"/>
@@ -1604,10 +1587,10 @@ function playTrack(index) {
   if (!audioContext) initAudioContext();
 
   state.currentIndex = index;
-  const track = state.tracks[index];
+  var track = state.tracks[index];
 
   // Fallback CID chain for resilient loading
-  const fallbackCIDs = [
+  var fallbackCIDs = [
     typeof track.d !== 'undefined' && track.d ? track.d : '', // Primary CID (from track data)
     ''  // asteroid.pilot
   ];
@@ -1616,7 +1599,7 @@ function playTrack(index) {
 
   function tryLoadAudio() {
     if (currentFallback < fallbackCIDs.length) {
-      const cidUrl = fallbackCIDs[currentFallback];
+      var cidUrl = fallbackCIDs[currentFallback];
       audio.src = `${cidUrl}/${track.f}`;
       console.log(`Attempting to load from CID ${currentFallback + 1}/${fallbackCIDs.length}: ${cidUrl}`);
 
@@ -1638,7 +1621,7 @@ function playTrack(index) {
     } else {
       // All CID attempts failed, try relative path as final fallback
       console.log('All CID attempts failed, trying relative path...');
-      audio.src = `tracks-${track.lang}-${track.f}`;
+      audio.src = `${track.f}`;
       audio.onerror = function(e) {
         console.error('❌ All loading attempts failed for track:', track.f);
       };
@@ -1667,7 +1650,7 @@ function playTrack(index) {
 }
 
 function updateTrackInfo() {
-  const track = state.tracks[state.currentIndex];
+  var track = state.tracks[state.currentIndex];
   if (!track) {
     document.getElementById('trackTitle').textContent = 'Select a track to play';
     document.getElementById('trackBadges').innerHTML = '';
@@ -1690,27 +1673,20 @@ function updateTrackInfo() {
 
 // Lyrics with fallback CID loading
 async function loadLyricsWithFallback(track, lang, fallbackCIDs) {
-  const lyricsText = document.getElementById('lyricsText');
+  var lyricsText = document.getElementById('lyricsText');
   lyricsText.innerHTML = '<div class="lyrics-loading">Loading lyrics...</div>';
 
-  // const lyricsMap = LYRICS[lang];
-  // if (!lyricsMap || !lyricsMap[track.i]) {
-  //   lyricsText.innerHTML = '<div class="lyrics-unavailable">Lyrics not available for this track</div>';
-  //   return;
-  // }
-
-  // const filename = lyricsMap[track.i];
-  const filename = track.l;
+  var filename = track.l;
 
   // Try each fallback CID in order
   for (let i = 0; i < fallbackCIDs.length; i++) {
     try {
-      const cidUrl = fallbackCIDs[i];
+      var cidUrl = fallbackCIDs[i];
       console.log(`Attempting to load lyrics from CID ${i + 1}/${fallbackCIDs.length}: ${cidUrl}`);
-      const resp = await fetch(`${cidUrl}/${filename}`);
+      var resp = await fetch(`${cidUrl}/${filename}`);
 
       if (resp.ok) {
-        const text = await resp.text();
+        var text = await resp.text();
         lyricsText.innerHTML = `<pre>${text}</pre>`;
         console.log(`✓ Successfully loaded lyrics from: ${cidUrl}`);
         return;
@@ -1723,9 +1699,9 @@ async function loadLyricsWithFallback(track, lang, fallbackCIDs) {
   // All CID attempts failed, try relative path as final fallback
   try {
     console.log('All CID attempts failed for lyrics, trying relative path...');
-    const resp = await fetch(`${filename}`);
+    var resp = await fetch(`${filename}`);
     if (resp.ok) {
-      const text = await resp.text();
+      var text = await resp.text();
       lyricsText.innerHTML = `<pre>${text}</pre>`;
       console.log('✓ Successfully loaded lyrics from relative path');
       return;
@@ -1739,7 +1715,7 @@ async function loadLyricsWithFallback(track, lang, fallbackCIDs) {
 
 // Keep old function for backward compatibility (used in language selector)
 async function loadLyrics(track, lang) {
-  const fallbackCIDs = [
+  var fallbackCIDs = [
     track.d,
     ''
   ];
@@ -1772,7 +1748,7 @@ document.getElementById('nextBtn').addEventListener('click', () => {
 
   let nextIndex;
   if (state.shuffle && state.shuffleOrder.length > 0) {
-    const currentPos = state.shuffleOrder.indexOf(state.currentIndex);
+    var currentPos = state.shuffleOrder.indexOf(state.currentIndex);
     nextIndex = state.shuffleOrder[(currentPos + 1) % state.shuffleOrder.length];
   } else {
     nextIndex = (state.currentIndex + 1) % state.tracks.length;
@@ -1791,7 +1767,7 @@ document.getElementById('prevBtn').addEventListener('click', () => {
 
   let prevIndex;
   if (state.shuffle && state.shuffleOrder.length > 0) {
-    const currentPos = state.shuffleOrder.indexOf(state.currentIndex);
+    var currentPos = state.shuffleOrder.indexOf(state.currentIndex);
     prevIndex = state.shuffleOrder[(currentPos - 1 + state.shuffleOrder.length) % state.shuffleOrder.length];
   } else {
     prevIndex = (state.currentIndex - 1 + state.tracks.length) % state.tracks.length;
@@ -1808,7 +1784,7 @@ document.getElementById('shuffleBtn').addEventListener('click', () => {
   if (state.shuffle) {
     state.shuffleOrder = [...Array(state.tracks.length).keys()];
     for (let i = state.shuffleOrder.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
+      var j = Math.floor(Math.random() * (i + 1));
       [state.shuffleOrder[i], state.shuffleOrder[j]] = [state.shuffleOrder[j], state.shuffleOrder[i]];
     }
   } else {
@@ -1820,7 +1796,7 @@ document.getElementById('shuffleBtn').addEventListener('click', () => {
 // Repeat
 document.getElementById('repeatBtn').addEventListener('click', () => {
   state.repeat = (state.repeat + 1) % 3;
-  const btn = document.getElementById('repeatBtn');
+  var btn = document.getElementById('repeatBtn');
 
   if (state.repeat === 0) {
     btn.classList.remove('active');
@@ -1853,7 +1829,7 @@ audio.addEventListener('ended', () => {
 
 // Progress bar
 audio.addEventListener('timeupdate', () => {
-  const progress = (audio.currentTime / audio.duration) * 100;
+  var progress = (audio.currentTime / audio.duration) * 100;
   document.getElementById('progressFill').style.width = `${progress}%`;
   document.getElementById('currentTime').textContent = formatTime(audio.currentTime);
 });
@@ -1863,20 +1839,20 @@ audio.addEventListener('loadedmetadata', () => {
 });
 
 document.getElementById('progressBar').addEventListener('click', (e) => {
-  const rect = e.currentTarget.getBoundingClientRect();
-  const percent = (e.clientX - rect.left) / rect.width;
+  var rect = e.currentTarget.getBoundingClientRect();
+  var percent = (e.clientX - rect.left) / rect.width;
   audio.currentTime = percent * audio.duration;
 });
 
 function formatTime(seconds) {
   if (isNaN(seconds)) return '0:00';
-  const mins = Math.floor(seconds / 60);
-  const secs = Math.floor(seconds % 60);
+  var mins = Math.floor(seconds / 60);
+  var secs = Math.floor(seconds % 60);
   return `${mins}:${secs.toString().padStart(2, '0')}`;
 }
 
 // Volume
-const volumeSlider = document.getElementById('volumeSlider');
+var volumeSlider = document.getElementById('volumeSlider');
 volumeSlider.addEventListener('input', (e) => {
   state.volume = e.target.value / 100;
   audio.volume = state.volume;
@@ -1897,9 +1873,9 @@ document.getElementById('muteBtn').addEventListener('click', () => {
 // Lyrics toggle
 document.getElementById('lyricsToggle').addEventListener('click', () => {
   state.lyricsOpen = !state.lyricsOpen;
-  const content = document.getElementById('lyricsContent');
-  const toggle = document.getElementById('lyricsToggle');
-  const icon = document.getElementById('lyricsIcon');
+  var content = document.getElementById('lyricsContent');
+  var toggle = document.getElementById('lyricsToggle');
+  var icon = document.getElementById('lyricsIcon');
 
   content.classList.toggle('hidden', !state.lyricsOpen);
   toggle.classList.toggle('open', state.lyricsOpen);
@@ -1910,26 +1886,26 @@ document.getElementById('lyricsToggle').addEventListener('click', () => {
 
 // Share buttons
 document.getElementById('shareTwitter').addEventListener('click', () => {
-  const url = encodeURIComponent(window.location.href);
-  const text = encodeURIComponent('Check out unicorns - A beautiful treasure');
+  var url = encodeURIComponent(window.location.href);
+  var text = encodeURIComponent('Check out unicorns - A beautiful treasure');
   window.open(`https://twitter.com/intent/tweet?url=${url}&text=${text}`, '_blank');
 });
 
 document.getElementById('shareFacebook').addEventListener('click', () => {
-  const url = encodeURIComponent(window.location.href);
+  var url = encodeURIComponent(window.location.href);
   window.open(`https://www.facebook.com/sharer/sharer.php?u=${url}`, '_blank');
 });
 
 document.getElementById('shareWhatsapp').addEventListener('click', () => {
-  const url = encodeURIComponent(window.location.href);
-  const text = encodeURIComponent('Check out unicorns - A beautiful treasure');
+  var url = encodeURIComponent(window.location.href);
+  var text = encodeURIComponent('Check out unicorns - A beautiful treasure');
   window.open(`https://wa.me/?text=${text}%20${url}`, '_blank');
 });
 
 document.getElementById('shareCopy').addEventListener('click', async () => {
   try {
     await navigator.clipboard.writeText(window.location.href);
-    const btn = document.getElementById('shareCopy');
+    var btn = document.getElementById('shareCopy');
     btn.style.background = 'rgba(16, 185, 129, 0.3)';
     setTimeout(() => {
       btn.style.background = '';
@@ -1968,9 +1944,9 @@ function saveState() {
 
 function loadState() {
   try {
-    const saved = localStorage.getItem('unicorns_state');
+    var saved = localStorage.getItem('unicorns_state');
     if (saved) {
-      const data = JSON.parse(saved);
+      var data = JSON.parse(saved);
       state.language = data.language || 'en';
       document.getElementById('langSelector').value = state.language;
       state.currentIndex = data.currentIndex || -1;
@@ -1987,7 +1963,7 @@ function loadState() {
       }
 
       if (state.repeat > 0) {
-        const btn = document.getElementById('repeatBtn');
+        var btn = document.getElementById('repeatBtn');
         btn.classList.add('active');
         btn.textContent = state.repeat === 2 ? '🔂' : '🔁';
       }
@@ -2018,8 +1994,8 @@ async function updateCacheInfo() {
   try {
     if (!navigator.serviceWorker.controller) return;
 
-    const cachedCount = await new Promise((resolve) => {
-      const channel = new MessageChannel();
+    var cachedCount = await new Promise((resolve) => {
+      var channel = new MessageChannel();
       channel.port1.onmessage = (event) => {
         resolve(event.data.audioCount || 0);
       };
@@ -2037,12 +2013,12 @@ async function updateCacheInfo() {
 async function updateOfflineIndicators() {
   if (!('caches' in window)) return;
   try {
-    const cache = await caches.open('v1.0.0-tracks');
-    const requests = await cache.keys();
-    const cachedFiles = requests.map(req => new URL(req.url).pathname.split('/').pop());
+    var cache = await caches.open('v1.0.0-tracks');
+    var requests = await cache.keys();
+    var cachedFiles = requests.map(req => new URL(req.url).pathname.split('/').pop());
 
     document.querySelectorAll('.offline-badge').forEach(badge => {
-      const trackFile = badge.getAttribute('data-track');
+      var trackFile = badge.getAttribute('data-track');
       badge.style.display = cachedFiles.includes(trackFile) ? 'inline-flex' : 'none';
     });
   } catch (e) {
@@ -2054,14 +2030,14 @@ async function updateOfflineIndicators() {
 function preCacheNextTrack() {
   if (!('serviceWorker' in navigator) || !navigator.serviceWorker.controller) return;
 
-  const nextIndex = state.shuffle
+  var nextIndex = state.shuffle
     ? Math.floor(Math.random() * state.tracks.length)
     : (state.currentIndex + 1) % state.tracks.length;
 
   if (nextIndex >= 0 && nextIndex < state.tracks.length) {
-    const nextTrack = state.tracks[nextIndex];
+    var nextTrack = state.tracks[nextIndex];
     // Use full IPFS URL format, matching what playTrack uses
-    const url = `${nextTrack.d}/${nextTrack.f}`;
+    var url = `${nextTrack.d}/${nextTrack.f}`;
 
     navigator.serviceWorker.controller.postMessage({
       action: 'preCacheTrack',
@@ -2072,7 +2048,7 @@ function preCacheNextTrack() {
 
 // Cookie consent
 function initCookieConsent() {
-  const consent = localStorage.getItem('cookie_consent');
+  var consent = localStorage.getItem('cookie_consent');
   if (!consent) {
     document.getElementById('cookieConsent').style.display = 'block';
   }
@@ -2090,33 +2066,24 @@ document.getElementById('cookieDecline').addEventListener('click', () => {
 
 (async function () {
   try {
-    const resp = await fetch(`tracks.json`);
+    var resp = await fetch(`tracks.json`);
     if (resp.ok) {
       window.TRACKS = await resp.json();
     }
   } catch (err) {
     console.error(`Failed to load tracks.json`);
   }
-  try {
-    const resp = await fetch(`lyrics.json`);
-    if (resp.ok) {
-      window.LYRICS = await resp.json();
-    }
-  } catch (err) {
-    console.error(`Failed to load lyrics.json`);
-  }
   // Initialize
-  // initVideo();
   loadState();
   loadTracks();
   initCookieConsent();
 })()
 
 // Load from URL parameters after tracks are loaded
-const urlParams = parseUrlParams();
+var urlParams = parseUrlParams();
 if (urlParams.trackId !== null) {
   // Find track by ID
-  const trackIndex = state.tracks.findIndex(t => t.i === urlParams.trackId);
+  var trackIndex = state.tracks.findIndex(t => t.i === urlParams.trackId);
   if (trackIndex !== -1) {
     // Delay playback slightly to ensure everything is loaded
     setTimeout(() => {
@@ -2130,7 +2097,7 @@ document.getElementById('langSelector').addEventListener('change', (e) => {
   state.language = e.target.value;
   loadTracks();
   if (state.currentIndex !== -1) {
-    const track = state.tracks[state.currentIndex];
+    var track = state.tracks[state.currentIndex];
     if (track) {
       loadLyrics(track, state.language);
     }
