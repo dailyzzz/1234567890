@@ -1,5 +1,6 @@
 SONG 91: "The Kinsey Corruption"
 
+Lyrics created with AI after having it read articles from https://chemtrails.substack.com/archive
 
 [Intro]
 They funded the darkness, called it science and research

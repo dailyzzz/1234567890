@@ -1,5 +1,6 @@
 SONG 179: "Engineering Contagion"
 
+Lyrics created with AI after having it read articles from https://unlimitedhangout.com/
 
 [Intro]
 (Laboratory sounds, eerie choir)

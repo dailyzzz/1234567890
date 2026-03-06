@@ -1,5 +1,6 @@
 SONG 189: "Operation Warp Speed"
 
+Lyrics created with AI after having it read articles from https://unlimitedhangout.com/
 
 [Intro]
 (Military march meets lab sounds)

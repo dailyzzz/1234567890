@@ -1,5 +1,6 @@
 SONG 201: "Private Prison Hip Hop"
 
+Lyrics created with AI after having it read articles from https://unlimitedhangout.com/
 
 [Intro]
 (Street beats, prison sounds)

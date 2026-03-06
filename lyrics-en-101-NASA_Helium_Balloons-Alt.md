@@ -1,5 +1,6 @@
 SONG 102: "NASA Helium Balloons (Alt)"
 
+Lyrics created with AI after having it read articles from https://chemtrails.substack.com/archive
 
 [Intro]
 Twenty-five billion dollars every year

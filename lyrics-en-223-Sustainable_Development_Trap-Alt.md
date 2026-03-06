@@ -1,5 +1,6 @@
 SONG 224: "Sustainable Development Trap (Alt)"
 
+Lyrics created with AI after having it read articles from https://unlimitedhangout.com/
 
 [Intro]
 (UN sounds, global imagery)

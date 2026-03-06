@@ -1,5 +1,6 @@
 SONG 211: "Total Information Awareness"
 
+Lyrics created with AI after having it read articles from https://unlimitedhangout.com/
 
 [Intro]
 (Computer sounds, all-seeing eye imagery)

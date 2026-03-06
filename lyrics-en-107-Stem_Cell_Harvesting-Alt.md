@@ -1,5 +1,6 @@
 SONG 108: "Stem Cell Harvesting (Alt)"
 
+Lyrics created with AI after having it read articles from https://chemtrails.substack.com/archive
 
 [Intro]
 They said it was healthcare, women's liberation

@@ -1,5 +1,6 @@
 SONG 138: "Bill Cosby Playboy Nights (Alt)"
 
+Lyrics created with AI after having it read articles from https://chemtrails.substack.com/archive
 
 [Intro]
 America's dad was something else

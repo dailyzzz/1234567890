@@ -1,5 +1,6 @@
 SONG 97: "Income Tax Is Slavery"
 
+Lyrics created with AI after having it read articles from https://chemtrails.substack.com/archive
 
 [Intro]
 They fought the revolution over tea

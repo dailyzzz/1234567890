@@ -1,5 +1,6 @@
 SONG 236: "Four Horsemen Finance (Alt)"
 
+Lyrics created with AI after having it read articles from https://unlimitedhangout.com/
 
 [Intro]
 (Horsemen sounds, financial collapse)

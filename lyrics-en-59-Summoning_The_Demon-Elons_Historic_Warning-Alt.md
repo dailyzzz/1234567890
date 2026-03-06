@@ -1,5 +1,7 @@
 SONG 60: "Summoning The Demon-Elons Historic Warning (Alt)"
 
+Lyrics created with AI after having it read articles from https://anamihalceamdphd.substack.com/archive
+
 [Intro]
 "AI is summoning the demon"—Elon Musk once said,
 Now he's racing fastest to wake the demon's head.

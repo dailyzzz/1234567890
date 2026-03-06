@@ -1,5 +1,6 @@
 SONG 218: "Manufacturing Far Right (Alt)"
 
+Lyrics created with AI after having it read articles from https://unlimitedhangout.com/
 
 [Intro]
 (Media sounds, shaking jar imagery)

@@ -1,6 +1,6 @@
 SONG 328: "UFO Pyramids (Alt)"
 
-Lyrics created with AI after having it read articles from the-masters-voice.com
+Lyrics created with AI after having it read articles from https://the-masters-voice.com/
 
 [Intro]
 (Ancient Egyptian sounds mixed with UFO tones)

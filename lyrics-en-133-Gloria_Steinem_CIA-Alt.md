@@ -1,5 +1,6 @@
 SONG 134: "Gloria Steinem CIA (Alt)"
 
+Lyrics created with AI after having it read articles from https://chemtrails.substack.com/archive
 
 [Intro]
 The women's movement wasn't grassroots, friend

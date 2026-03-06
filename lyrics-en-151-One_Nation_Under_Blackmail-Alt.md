@@ -1,5 +1,6 @@
 SONG 152: "One Nation Under Blackmail (Alt)"
 
+Lyrics created with AI after having it read articles from https://unlimitedhangout.com/
 
 [Intro]
 (Slow organ, building tension)

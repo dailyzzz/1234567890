@@ -1,6 +1,6 @@
 SONG 467: "The End Of America"
 
-Lyrics created with AI after having it read articles from the-masters-voice.com
+Lyrics created with AI after having it read articles from https://the-masters-voice.com/
 
 [Intro]
 (Flatline, then silence)

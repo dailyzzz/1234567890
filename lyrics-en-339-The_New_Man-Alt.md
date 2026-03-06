@@ -1,6 +1,6 @@
 SONG 340: "The New Man (Alt)"
 
-Lyrics created with AI after having it read articles from the-masters-voice.com
+Lyrics created with AI after having it read articles from https://the-masters-voice.com/
 
 [Intro]
 (DNA helix sounds, transformation)

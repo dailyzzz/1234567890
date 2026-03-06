@@ -1,5 +1,6 @@
 SONG 126: "Illuminati Founding Fathers (Alt)"
 
+Lyrics created with AI after having it read articles from https://chemtrails.substack.com/archive
 
 [Intro]
 Land of the free, home of the brave

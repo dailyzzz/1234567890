@@ -1,5 +1,6 @@
 SONG 170: "Diddy Shadow Network (Alt)"
 
+Lyrics created with AI after having it read articles from https://unlimitedhangout.com/
 
 [Intro]
 (808 beat meets church organ)

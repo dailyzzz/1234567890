@@ -1,5 +1,6 @@
 SONG 230: "Digital Dollar Dragnet (Alt)"
 
+Lyrics created with AI after having it read articles from https://unlimitedhangout.com/
 
 [Intro]
 (Cash register transforms to digital beep)

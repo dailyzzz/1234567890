@@ -1,5 +1,7 @@
 SONG 61: "Synthetic Biology-Bioweapon Platform"
 
+Lyrics created with AI after having it read articles from https://anamihalceamdphd.substack.com/archive
+
 [Intro]
 COVID-19 wasn't just a virus spread,
 It was a synthetic biology platform instead.

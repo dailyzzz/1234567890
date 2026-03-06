@@ -1,5 +1,6 @@
 SONG 184: "Ukraine Testing Ground (Alt)"
 
+Lyrics created with AI after having it read articles from https://unlimitedhangout.com/
 
 [Intro]
 (Military drums, Ukrainian melody)

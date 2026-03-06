@@ -1,5 +1,6 @@
 SONG 124: "Dinosaur Dig Deception (Alt)"
 
+Lyrics created with AI after having it read articles from https://chemtrails.substack.com/archive
 
 [Intro]
 They found giant bones but called them dinosaurs

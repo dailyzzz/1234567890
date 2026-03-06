@@ -1,5 +1,6 @@
 SONG 131: "Antarctic Treaty Secrets"
 
+Lyrics created with AI after having it read articles from https://chemtrails.substack.com/archive
 
 [Intro]
 Every nation agrees on just one thing

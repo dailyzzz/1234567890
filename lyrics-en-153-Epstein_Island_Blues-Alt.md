@@ -1,5 +1,6 @@
 SONG 154: "Epstein Island Blues (Alt)"
 
+Lyrics created with AI after having it read articles from https://unlimitedhangout.com/
 
 [Intro]
 (Slow blues guitar, mournful)

@@ -1,5 +1,6 @@
 SONG 103: "MKUltra Never Ended"
 
+Lyrics created with AI after having it read articles from https://chemtrails.substack.com/archive
 
 [Intro]
 Nineteen seventy-three they said they shut it down

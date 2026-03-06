@@ -1,5 +1,6 @@
 SONG 162: "CBDC Chains (Alt)"
 
+Lyrics created with AI after having it read articles from https://unlimitedhangout.com/
 
 [Intro]
 (Church organ, ominous)

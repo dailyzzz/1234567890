@@ -1,5 +1,6 @@
 SONG 157: "Palantir Panopticon"
 
+Lyrics created with AI after having it read articles from https://unlimitedhangout.com/
 
 [Intro]
 (Heavy bass synth, surveillance beeps)

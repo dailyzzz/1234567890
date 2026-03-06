@@ -1,5 +1,6 @@
 SONG 99: "Buried Cities Underground"
 
+Lyrics created with AI after having it read articles from https://chemtrails.substack.com/archive
 
 [Intro]
 They dug in New Mexico, found fifteen hundred rooms

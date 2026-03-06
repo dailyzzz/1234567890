@@ -1,5 +1,6 @@
 SONG 100: "Buried Cities Underground (Alt)"
 
+Lyrics created with AI after having it read articles from https://chemtrails.substack.com/archive
 
 [Intro]
 They dug in New Mexico, found fifteen hundred rooms

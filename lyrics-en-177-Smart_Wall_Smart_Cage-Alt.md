@@ -1,5 +1,6 @@
 SONG 178: "Smart Wall Smart Cage (Alt)"
 
+Lyrics created with AI after having it read articles from https://unlimitedhangout.com/
 
 [Intro]
 (Acoustic guitar, desert wind)

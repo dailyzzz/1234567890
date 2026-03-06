@@ -1,5 +1,6 @@
 SONG 172: "Great Reset Rising (Alt)"
 
+Lyrics created with AI after having it read articles from https://unlimitedhangout.com/
 
 [Intro]
 (Orchestral swell, choir)

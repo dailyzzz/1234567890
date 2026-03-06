@@ -1,6 +1,6 @@
 SONG 369: "The Cost Of Staying Alive"
 
-Lyrics created with AI after having it read articles from the-masters-voice.com
+Lyrics created with AI after having it read articles from https://the-masters-voice.com/
 
 [Intro]
 (Survival sounds, difficult breathing)

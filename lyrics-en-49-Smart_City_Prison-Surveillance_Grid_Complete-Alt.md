@@ -1,5 +1,7 @@
 SONG 50: "Smart City Prison-Surveillance Grid Complete (Alt)"
 
+Lyrics created with AI after having it read articles from https://anamihalceamdphd.substack.com/archive
+
 [Intro]
 Privacy is history, Big Brother everywhere,
 Every move you make, they're watching—be aware.

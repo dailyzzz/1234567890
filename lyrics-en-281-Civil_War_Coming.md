@@ -1,6 +1,6 @@
 SONG 281: "Civil War Coming"
 
-Lyrics created with AI after having it read articles from the-masters-voice.com
+Lyrics created with AI after having it read articles from https://the-masters-voice.com/
 
 [Intro]
 (Distant gunfire, shouting)

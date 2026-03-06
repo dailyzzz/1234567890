@@ -1,5 +1,6 @@
 SONG 158: "Palantir Panopticon (Alt)"
 
+Lyrics created with AI after having it read articles from https://unlimitedhangout.com/
 
 [Intro]
 (Heavy bass synth, surveillance beeps)

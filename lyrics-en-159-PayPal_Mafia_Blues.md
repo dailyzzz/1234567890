@@ -1,5 +1,6 @@
 SONG 159: "PayPal Mafia Blues"
 
+Lyrics created with AI after having it read articles from https://unlimitedhangout.com/
 
 [Intro]
 (Blues guitar meets electronic pulse)

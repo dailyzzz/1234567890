@@ -1,5 +1,6 @@
 SONG 195: "GENIUS Act Takeover"
 
+Lyrics created with AI after having it read articles from https://unlimitedhangout.com/
 
 [Intro]
 (Capitol sounds, digital bleeps)

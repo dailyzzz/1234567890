@@ -1,5 +1,6 @@
 SONG 133: "Gloria Steinem CIA"
 
+Lyrics created with AI after having it read articles from https://chemtrails.substack.com/archive
 
 [Intro]
 The women's movement wasn't grassroots, friend

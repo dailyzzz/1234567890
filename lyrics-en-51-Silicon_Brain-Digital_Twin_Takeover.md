@@ -1,5 +1,7 @@
 SONG 51: "Silicon Brain-Digital Twin Takeover"
 
+Lyrics created with AI after having it read articles from https://anamihalceamdphd.substack.com/archive
+
 [Intro]
 UCSF building digital copies of your mind,
 Artificial neural networks, leaving you behind.

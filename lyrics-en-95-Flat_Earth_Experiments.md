@@ -1,5 +1,6 @@
 SONG 95: "Flat Earth Experiments"
 
+Lyrics created with AI after having it read articles from https://chemtrails.substack.com/archive
 
 [Intro]
 Parallax took his tools to the canal that day

@@ -1,5 +1,6 @@
 SONG 192: "Rockefeller Medicine (Alt)"
 
+Lyrics created with AI after having it read articles from https://unlimitedhangout.com/
 
 [Intro]
 (Old blues guitar, medical sounds)

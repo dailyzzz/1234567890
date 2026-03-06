@@ -1,5 +1,6 @@
 SONG 200: "MCA Spook Records (Alt)"
 
+Lyrics created with AI after having it read articles from https://unlimitedhangout.com/
 
 [Intro]
 (Old Hollywood sound, spy theme)

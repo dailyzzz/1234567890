@@ -1,5 +1,6 @@
 SONG 142: "Playboy Murder Files (Alt)"
 
+Lyrics created with AI after having it read articles from https://chemtrails.substack.com/archive
 
 [Intro]
 Three seasons on Investigation Discovery

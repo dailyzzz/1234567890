@@ -1,5 +1,6 @@
 SONG 94: "Playboy Shadow Mansions (Alt)"
 
+Lyrics created with AI after having it read articles from https://chemtrails.substack.com/archive
 
 [Intro]
 Behind the bunny ears was something sinister

@@ -1,5 +1,6 @@
 SONG 205: "Jim ONeill Biotech"
 
+Lyrics created with AI after having it read articles from https://unlimitedhangout.com/
 
 [Intro]
 (Laboratory sounds, warning alarms)

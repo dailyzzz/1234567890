@@ -1,5 +1,6 @@
 SONG 247: "Techno Fascism Rising"
 
+Lyrics created with AI after having it read articles from https://unlimitedhangout.com/
 
 [Intro]
 (Industrial sounds, marching)

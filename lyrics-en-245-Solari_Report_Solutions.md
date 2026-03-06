@@ -1,5 +1,6 @@
 SONG 245: "Solari Report Solutions"
 
+Lyrics created with AI after having it read articles from https://unlimitedhangout.com/
 
 [Intro]
 (Hopeful music, community sounds)

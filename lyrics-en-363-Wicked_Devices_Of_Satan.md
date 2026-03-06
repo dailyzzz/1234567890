@@ -1,6 +1,6 @@
 SONG 363: "Wicked Devices Of Satan"
 
-Lyrics created with AI after having it read articles from the-masters-voice.com
+Lyrics created with AI after having it read articles from https://the-masters-voice.com/
 
 [Intro]
 (Sinister plotting sounds)

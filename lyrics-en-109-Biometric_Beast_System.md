@@ -1,5 +1,6 @@
 SONG 109: "Biometric Beast System"
 
+Lyrics created with AI after having it read articles from https://chemtrails.substack.com/archive
 
 [Intro]
 Scan your face, scan your eyes

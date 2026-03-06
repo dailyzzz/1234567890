@@ -1,5 +1,6 @@
 SONG 166: "Event 201 Came True (Alt)"
 
+Lyrics created with AI after having it read articles from https://unlimitedhangout.com/
 
 [Intro]
 (Piano, building urgency)

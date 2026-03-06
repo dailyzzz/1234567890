@@ -1,5 +1,6 @@
 SONG 223: "Sustainable Development Trap"
 
+Lyrics created with AI after having it read articles from https://unlimitedhangout.com/
 
 [Intro]
 (UN sounds, global imagery)

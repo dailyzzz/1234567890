@@ -1,5 +1,6 @@
 SONG 188: "Natural Asset Corporations (Alt)"
 
+Lyrics created with AI after having it read articles from https://unlimitedhangout.com/
 
 [Intro]
 (Nature sounds, foreboding organ)

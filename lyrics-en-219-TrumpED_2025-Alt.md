@@ -1,5 +1,6 @@
 SONG 220: "TrumpED 2025 (Alt)"
 
+Lyrics created with AI after having it read articles from https://unlimitedhangout.com/
 
 [Intro]
 (School bell, corporate sounds)

@@ -1,6 +1,6 @@
 SONG 410: "Mene Mene Tekel (Alt)"
 
-Lyrics created with AI after having it read articles from the-masters-voice.com
+Lyrics created with AI after having it read articles from https://the-masters-voice.com/
 
 [Intro]
 (Writing on wall sounds)

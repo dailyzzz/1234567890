@@ -1,5 +1,6 @@
 SONG 228: "Gloria Steinem CIA (Alt)"
 
+Lyrics created with AI after having it read articles from https://unlimitedhangout.com/
 
 [Intro]
 (60s protest sounds, revelation)

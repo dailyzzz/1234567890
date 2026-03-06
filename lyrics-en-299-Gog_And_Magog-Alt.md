@@ -1,6 +1,6 @@
 SONG 300: "Gog And Magog (Alt)"
 
-Lyrics created with AI after having it read articles from the-masters-voice.com
+Lyrics created with AI after having it read articles from https://the-masters-voice.com/
 
 [Intro]
 (War drums, ancient horns)

@@ -1,6 +1,6 @@
 SONG 444: "The Money Drain (Alt)"
 
-Lyrics created with AI after having it read articles from the-masters-voice.com
+Lyrics created with AI after having it read articles from https://the-masters-voice.com/
 
 [Intro]
 (Water draining sounds)

@@ -1,5 +1,6 @@
 SONG 101: "NASA Helium Balloons"
 
+Lyrics created with AI after having it read articles from https://chemtrails.substack.com/archive
 
 [Intro]
 Twenty-five billion dollars every year

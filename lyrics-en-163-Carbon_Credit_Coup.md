@@ -1,5 +1,6 @@
 SONG 163: "Carbon Credit Coup"
 
+Lyrics created with AI after having it read articles from https://unlimitedhangout.com/
 
 [Intro]
 (Acoustic guitar, environmental soundscape)

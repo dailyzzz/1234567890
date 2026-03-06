@@ -1,5 +1,7 @@
 SONG 54: "Cognitive Warfare-Battle For The Brain (Alt)"
 
+Lyrics created with AI after having it read articles from https://anamihalceamdphd.substack.com/archive
+
 [Intro]
 Dr. James Giordano, battlescape brain deployed,
 Militarized cognitive warfare—minds destroyed.

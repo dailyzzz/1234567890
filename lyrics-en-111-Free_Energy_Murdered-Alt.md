@@ -1,5 +1,6 @@
 SONG 112: "Free Energy Murdered (Alt)"
 
+Lyrics created with AI after having it read articles from https://chemtrails.substack.com/archive
 
 [Intro]
 Lester Hendershot built a motor that was free

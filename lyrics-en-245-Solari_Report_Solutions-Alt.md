@@ -1,5 +1,6 @@
 SONG 246: "Solari Report Solutions (Alt)"
 
+Lyrics created with AI after having it read articles from https://unlimitedhangout.com/
 
 [Intro]
 (Hopeful music, community sounds)

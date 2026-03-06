@@ -1,5 +1,6 @@
 SONG 239: "Sberbank WEF Alliance"
 
+Lyrics created with AI after having it read articles from https://unlimitedhangout.com/
 
 [Intro]
 (Russian and Western financial sounds merge)

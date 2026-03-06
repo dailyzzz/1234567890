@@ -1,5 +1,6 @@
 SONG 216: "Brain Machine Interface (Alt)"
 
+Lyrics created with AI after having it read articles from https://unlimitedhangout.com/
 
 [Intro]
 (Futuristic sounds, neural pulse)

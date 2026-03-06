@@ -1,5 +1,6 @@
 SONG 203: "Howard Lutnick Commerce"
 
+Lyrics created with AI after having it read articles from https://unlimitedhangout.com/
 
 [Intro]
 (Trading floor sounds, ominous)

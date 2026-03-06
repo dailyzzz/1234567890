@@ -1,5 +1,6 @@
 SONG 187: "Natural Asset Corporations"
 
+Lyrics created with AI after having it read articles from https://unlimitedhangout.com/
 
 [Intro]
 (Nature sounds, foreboding organ)

@@ -1,6 +1,6 @@
 SONG 461: "The Many Words Of God"
 
-Lyrics created with AI after having it read articles from the-masters-voice.com
+Lyrics created with AI after having it read articles from https://the-masters-voice.com/
 
 [Intro]
 (Voices speaking, layered)

@@ -1,5 +1,6 @@
 SONG 136: "Food Price Shadow Industry (Alt)"
 
+Lyrics created with AI after having it read articles from https://chemtrails.substack.com/archive
 
 [Intro]
 Why does everything cost more today?

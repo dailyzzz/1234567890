@@ -1,5 +1,7 @@
 SONG 70: "Awakening Call-Final Stand For Humanity (Alt)"
 
+Lyrics created with AI after having it read articles from https://anamihalceamdphd.substack.com/archive
+
 [Intro]
 This is the final battle, the choice of our lifetime,
 Merge with satanic AI or draw the line.

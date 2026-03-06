@@ -1,5 +1,7 @@
 SONG 64: "Bluetooth Bodies-MAC Address Humans (Alt)"
 
+Lyrics created with AI after having it read articles from https://anamihalceamdphd.substack.com/archive
+
 [Intro]
 Scan your phone near the vaccinated crowd,
 Bluetooth MAC addresses beeping out loud.

@@ -1,5 +1,7 @@
 SONG 32: "DEW In The Streets (Alt)"
 
+Lyrics created with AI after having it read articles from https://anamihalceamdphd.substack.com/archive
+
 [Intro]
 Traffic lights watching, lasers hidden in plain sight,
 Smart cities turning deadly, Mark Steele exposed the fight.

@@ -1,6 +1,6 @@
 SONG 257: "Russia Will Rise"
 
-Lyrics created with AI after having it read articles from the-masters-voice.com
+Lyrics created with AI after having it read articles from https://the-masters-voice.com/
 
 [Intro]
 (Military drums and Orthodox choir)

@@ -1,5 +1,6 @@
 SONG 186: "Maxwell Dynasty (Alt)"
 
+Lyrics created with AI after having it read articles from https://unlimitedhangout.com/
 
 [Intro]
 (Minor key strings, mysterious)

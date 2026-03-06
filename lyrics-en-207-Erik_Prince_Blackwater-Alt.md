@@ -1,5 +1,6 @@
 SONG 208: "Erik Prince Blackwater (Alt)"
 
+Lyrics created with AI after having it read articles from https://unlimitedhangout.com/
 
 [Intro]
 (Helicopter sounds, combat ambience)

@@ -1,5 +1,7 @@
 SONG 44: "Singularity 2030-Ray Kurzweil s Prophecy (Alt)"
 
+Lyrics created with AI after having it read articles from https://anamihalceamdphd.substack.com/archive
+
 [Intro]
 MIT award speech, Ray Kurzweil on stage,
 Merge with AI by 2030—turn the final page.

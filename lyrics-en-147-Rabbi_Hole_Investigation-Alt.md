@@ -1,5 +1,6 @@
 SONG 148: "Rabbi Hole Investigation (Alt)"
 
+Lyrics created with AI after having it read articles from https://chemtrails.substack.com/archive
 
 [Intro]
 Started asking questions, ended up down deep

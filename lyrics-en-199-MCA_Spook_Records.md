@@ -1,5 +1,6 @@
 SONG 199: "MCA Spook Records"
 
+Lyrics created with AI after having it read articles from https://unlimitedhangout.com/
 
 [Intro]
 (Old Hollywood sound, spy theme)

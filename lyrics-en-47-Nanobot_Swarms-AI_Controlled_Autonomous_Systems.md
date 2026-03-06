@@ -1,5 +1,7 @@
 SONG 47: "Nanobot Swarms-AI Controlled Autonomous Systems"
 
+Lyrics created with AI after having it read articles from https://anamihalceamdphd.substack.com/archive
+
 [Intro]
 Swarm intelligence deployed inside your blood,
 AI neural networks rising from the flood.

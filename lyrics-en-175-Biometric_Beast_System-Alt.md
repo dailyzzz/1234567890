@@ -1,5 +1,6 @@
 SONG 176: "Biometric Beast System (Alt)"
 
+Lyrics created with AI after having it read articles from https://unlimitedhangout.com/
 
 [Intro]
 (Ominous organ, heartbeat sounds)

@@ -1,5 +1,6 @@
 SONG 242: "Mark Goodwin Chain Series (Alt)"
 
+Lyrics created with AI after having it read articles from https://unlimitedhangout.com/
 
 [Intro]
 (Blockchain sounds, investigative beat)

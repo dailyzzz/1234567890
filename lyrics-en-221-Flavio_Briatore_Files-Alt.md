@@ -1,5 +1,6 @@
 SONG 222: "Flavio Briatore Files (Alt)"
 
+Lyrics created with AI after having it read articles from https://unlimitedhangout.com/
 
 [Intro]
 (Formula 1 sounds, party ambience)

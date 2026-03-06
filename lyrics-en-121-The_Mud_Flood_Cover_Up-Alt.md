@@ -1,5 +1,6 @@
 SONG 122: "The Mud Flood Cover Up (Alt)"
 
+Lyrics created with AI after having it read articles from https://chemtrails.substack.com/archive
 
 [Intro]
 Buildings buried to the windows, streets underground

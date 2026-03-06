@@ -1,5 +1,7 @@
 SONG 57: "Future Shock-They Predicted Your Paralysis"
 
+Lyrics created with AI after having it read articles from https://anamihalceamdphd.substack.com/archive
+
 [Intro]
 Alvin Toffler wrote it back in 1970,
 Future shock would freeze us—that prediction was hefty.

@@ -1,5 +1,7 @@
 SONG 35: "Neuralink Telepathy"
 
+Lyrics created with AI after having it read articles from https://anamihalceamdphd.substack.com/archive
+
 [Intro]
 DJ Seo on stage, showing off the tech,
 Neural dust in your brain, turning humans to wrecks.

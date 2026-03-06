@@ -1,5 +1,6 @@
 SONG 105: "Freemason Jesters"
 
+Lyrics created with AI after having it read articles from https://chemtrails.substack.com/archive
 
 [Intro]
 They call it jokes but the jewelry tells the truth

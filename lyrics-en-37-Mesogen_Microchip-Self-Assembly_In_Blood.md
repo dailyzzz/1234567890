@@ -1,5 +1,7 @@
 SONG 37: "Mesogen Microchip-Self-Assembly In Blood"
 
+Lyrics created with AI after having it read articles from https://anamihalceamdphd.substack.com/archive
+
 [Intro]
 Under the microscope, the truth is revealed,
 Microrobots building circuits—this can't be concealed.

@@ -1,5 +1,7 @@
 SONG 40: "Robot Army-Tesla Optimus and Figure AI (Alt)"
 
+Lyrics created with AI after having it read articles from https://anamihalceamdphd.substack.com/archive
+
 [Intro]
 Elon wants a trillion dollars for control,
 10 billion humanoid robots—that's the goal.

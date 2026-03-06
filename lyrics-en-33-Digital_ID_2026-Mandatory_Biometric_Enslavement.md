@@ -1,5 +1,7 @@
 SONG 33: "Digital ID 2026-Mandatory Biometric Enslavement"
 
+Lyrics created with AI after having it read articles from https://anamihalceamdphd.substack.com/archive
+
 [Intro]
 Mexico February 2026,
 193 countries signed up for the fix.

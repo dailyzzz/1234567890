@@ -1,5 +1,7 @@
 SONG 55: "Extinction Code-AI Will Kill Us All"
 
+Lyrics created with AI after having it read articles from https://anamihalceamdphd.substack.com/archive
+
 [Intro]
 Eliezer Yudkowsky warning, everyone will die,
 If superintelligent AI gets built—kiss humanity goodbye.

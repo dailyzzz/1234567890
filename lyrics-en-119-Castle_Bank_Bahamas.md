@@ -1,5 +1,6 @@
 SONG 119: "Castle Bank Bahamas"
 
+Lyrics created with AI after having it read articles from https://chemtrails.substack.com/archive
 
 [Intro]
 In the Caribbean islands where the palm trees sway

@@ -1,5 +1,6 @@
 SONG 249: "Wake Up And Build"
 
+Lyrics created with AI after having it read articles from https://unlimitedhangout.com/
 
 [Intro]
 (Dawn sounds, community building)

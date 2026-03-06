@@ -1,5 +1,7 @@
 SONG 67: "Hive Mind-Cybernetic Collective Consciousness"
 
+Lyrics created with AI after having it read articles from https://anamihalceamdphd.substack.com/archive
+
 [Intro]
 Magnetic nanorobots connecting brain to cloud,
 Cybernetic hive mind screaming out loud.

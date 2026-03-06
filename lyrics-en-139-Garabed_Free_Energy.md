@@ -1,5 +1,6 @@
 SONG 139: "Garabed Free Energy"
 
+Lyrics created with AI after having it read articles from https://chemtrails.substack.com/archive
 
 [Intro]
 Nineteen seventeen, Congress convened

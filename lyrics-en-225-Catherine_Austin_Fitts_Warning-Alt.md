@@ -1,5 +1,6 @@
 SONG 226: "Catherine Austin Fitts Warning (Alt)"
 
+Lyrics created with AI after having it read articles from https://unlimitedhangout.com/
 
 [Intro]
 (Financial data sounds, warning bells)

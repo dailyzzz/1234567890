@@ -1,5 +1,6 @@
 SONG 175: "Biometric Beast System"
 
+Lyrics created with AI after having it read articles from https://unlimitedhangout.com/
 
 [Intro]
 (Ominous organ, heartbeat sounds)

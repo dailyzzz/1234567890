@@ -1,5 +1,6 @@
 SONG 129: "Rockefeller Medicine"
 
+Lyrics created with AI after having it read articles from https://chemtrails.substack.com/archive
 
 [Intro]
 Snake oil salesman became medical kings

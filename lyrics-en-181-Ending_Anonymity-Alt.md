@@ -1,5 +1,6 @@
 SONG 182: "Ending Anonymity (Alt)"
 
+Lyrics created with AI after having it read articles from https://unlimitedhangout.com/
 
 [Intro]
 (Slow piano, mournful)

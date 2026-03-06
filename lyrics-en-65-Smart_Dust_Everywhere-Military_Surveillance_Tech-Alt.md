@@ -1,5 +1,7 @@
 SONG 66: "Smart Dust Everywhere-Military Surveillance Tech (Alt)"
 
+Lyrics created with AI after having it read articles from https://anamihalceamdphd.substack.com/archive
+
 [Intro]
 Nano sensors floating, you can't see them there,
 Smart dust and neural dust, contaminating air.

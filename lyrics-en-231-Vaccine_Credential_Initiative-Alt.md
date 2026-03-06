@@ -1,5 +1,6 @@
 SONG 232: "Vaccine Credential Initiative (Alt)"
 
+Lyrics created with AI after having it read articles from https://unlimitedhangout.com/
 
 [Intro]
 (Medical scanner sounds, checkpoint ambience)

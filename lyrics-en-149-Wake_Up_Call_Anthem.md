@@ -1,5 +1,6 @@
 SONG 149: "Wake Up Call Anthem"
 
+Lyrics created with AI after having it read articles from https://chemtrails.substack.com/archive
 
 [Intro]
 This is your wake-up call, humanity arise

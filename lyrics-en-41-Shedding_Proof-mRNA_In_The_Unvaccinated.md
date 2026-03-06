@@ -1,5 +1,7 @@
 SONG 41: "Shedding Proof-mRNA In The Unvaccinated"
 
+Lyrics created with AI after having it read articles from https://anamihalceamdphd.substack.com/archive
+
 [Intro]
 They said it couldn't happen, fact checkers denied,
 But the studies prove the truth that they tried to hide.

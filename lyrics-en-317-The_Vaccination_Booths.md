@@ -1,6 +1,6 @@
 SONG 317: "The Vaccination Booths"
 
-Lyrics created with AI after having it read articles from the-masters-voice.com
+Lyrics created with AI after having it read articles from https://the-masters-voice.com/
 
 [Intro]
 (Queue sounds, official announcements)

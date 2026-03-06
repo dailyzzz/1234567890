@@ -1,5 +1,6 @@
 SONG 155: "Cyber Polygon Prophecy"
 
+Lyrics created with AI after having it read articles from https://unlimitedhangout.com/
 
 [Intro]
 (Digital synths with ominous choir)

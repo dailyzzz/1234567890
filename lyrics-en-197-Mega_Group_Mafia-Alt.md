@@ -1,5 +1,6 @@
 SONG 198: "Mega Group Mafia (Alt)"
 
+Lyrics created with AI after having it read articles from https://unlimitedhangout.com/
 
 [Intro]
 (Piano, building intensity)

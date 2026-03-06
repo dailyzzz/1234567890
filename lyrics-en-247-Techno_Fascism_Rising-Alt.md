@@ -1,5 +1,6 @@
 SONG 248: "Techno Fascism Rising (Alt)"
 
+Lyrics created with AI after having it read articles from https://unlimitedhangout.com/
 
 [Intro]
 (Industrial sounds, marching)

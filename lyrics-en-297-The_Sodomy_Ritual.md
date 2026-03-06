@@ -1,6 +1,6 @@
 SONG 297: "The Sodomy Ritual"
 
-Lyrics created with AI after having it read articles from the-masters-voice.com
+Lyrics created with AI after having it read articles from https://the-masters-voice.com/
 
 [Intro]
 (Disturbing ceremonial sounds)
