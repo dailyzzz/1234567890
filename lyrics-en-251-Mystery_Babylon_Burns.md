@@ -1,5 +1,6 @@
 SONG 251: "Mystery Babylon Burns"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Haunting orchestral strings)

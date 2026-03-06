@@ -1,5 +1,6 @@
 SONG 446: "Counterfeits Among Us (Alt)"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Copy machine sounds, then sinister)

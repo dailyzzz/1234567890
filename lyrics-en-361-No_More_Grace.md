@@ -1,5 +1,6 @@
 SONG 361: "No More Grace"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Church bells silencing)

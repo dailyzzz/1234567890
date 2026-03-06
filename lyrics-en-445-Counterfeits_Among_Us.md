@@ -1,5 +1,6 @@
 SONG 445: "Counterfeits Among Us"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Copy machine sounds, then sinister)

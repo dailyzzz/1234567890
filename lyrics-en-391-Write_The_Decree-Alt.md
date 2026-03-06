@@ -1,5 +1,6 @@
 SONG 392: "Write The Decree (Alt)"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Quill on parchment)

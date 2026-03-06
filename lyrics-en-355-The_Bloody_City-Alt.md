@@ -1,5 +1,6 @@
 SONG 356: "The Bloody City (Alt)"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Heartbeat, violence sounds)

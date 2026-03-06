@@ -1,5 +1,6 @@
 SONG 407: "The Fall Of America"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Collapsing sounds)

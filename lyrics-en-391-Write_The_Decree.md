@@ -1,5 +1,6 @@
 SONG 391: "Write The Decree"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Quill on parchment)

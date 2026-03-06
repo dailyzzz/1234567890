@@ -1,5 +1,6 @@
 SONG 399: "Closer Than You Think"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Ticking clock, urgency)

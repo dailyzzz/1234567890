@@ -1,5 +1,6 @@
 SONG 448: "Modded Humans (Alt)"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Modification sounds)

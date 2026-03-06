@@ -1,5 +1,6 @@
 SONG 264: "Zombies Walk America (Alt)"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Horror movie strings)

@@ -1,5 +1,7 @@
 SONG 472: "Beast System Bluetooth (Alt)"
 
+Lyrics created with AI after having it read articles from https://the-masters-voice.com/, https://anamihalceamdphd.substack.com/archive, https://chemtrails.substack.com/archive
+
 [Intro]
 
 [Verse 1]

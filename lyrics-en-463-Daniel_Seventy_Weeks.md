@@ -1,5 +1,6 @@
 SONG 463: "Daniel Seventy Weeks"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Clock ticking, calendar pages)

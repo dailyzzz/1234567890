@@ -1,5 +1,6 @@
 SONG 330: "Damascus Falls (Alt)"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Explosions, Middle Eastern atmosphere)

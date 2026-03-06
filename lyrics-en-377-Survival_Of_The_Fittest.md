@@ -1,5 +1,6 @@
 SONG 377: "Survival Of The Fittest"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Darwinian sounds, struggle)

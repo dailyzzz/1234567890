@@ -1,5 +1,6 @@
 SONG 443: "The Money Drain"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Water draining sounds)

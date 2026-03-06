@@ -1,5 +1,6 @@
 SONG 417: "A People Of Madness"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Chaotic sounds, shouting)

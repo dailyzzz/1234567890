@@ -1,5 +1,6 @@
 SONG 295: "The Walking Dead"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Heartbeat monitor flatlines, then footsteps)

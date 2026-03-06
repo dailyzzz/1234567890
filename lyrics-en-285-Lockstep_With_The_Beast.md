@@ -1,5 +1,6 @@
 SONG 285: "Lockstep With The Beast"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Marching feet, military cadence)

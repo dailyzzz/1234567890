@@ -1,5 +1,6 @@
 SONG 355: "The Bloody City"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Heartbeat, violence sounds)

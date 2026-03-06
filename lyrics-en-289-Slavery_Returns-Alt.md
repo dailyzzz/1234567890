@@ -1,5 +1,6 @@
 SONG 290: "Slavery Returns (Alt)"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Chains rattling, work songs)

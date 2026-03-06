@@ -1,5 +1,6 @@
 SONG 283: "Human Trafficking Nation"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Dark, tense music)

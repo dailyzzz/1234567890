@@ -1,5 +1,6 @@
 SONG 452: "The Little Men Walking (Alt)"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Sky sounds, tiny footsteps)

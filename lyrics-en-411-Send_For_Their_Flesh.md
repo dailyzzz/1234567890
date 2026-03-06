@@ -1,5 +1,6 @@
 SONG 411: "Send For Their Flesh"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (War council sounds)

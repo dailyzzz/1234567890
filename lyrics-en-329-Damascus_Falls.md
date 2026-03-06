@@ -1,5 +1,6 @@
 SONG 329: "Damascus Falls"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Explosions, Middle Eastern atmosphere)

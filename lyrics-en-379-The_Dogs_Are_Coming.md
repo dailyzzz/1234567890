@@ -1,5 +1,6 @@
 SONG 379: "The Dogs Are Coming"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Snarling, approaching)

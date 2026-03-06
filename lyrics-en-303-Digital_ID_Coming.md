@@ -1,5 +1,6 @@
 SONG 303: "Digital ID Coming"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Scanning sounds, electronic beeps)

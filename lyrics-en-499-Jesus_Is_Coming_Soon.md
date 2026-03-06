@@ -1,5 +1,6 @@
 SONG 499: "Jesus Is Coming Soon"
 
+Lyrics created with AI after having it read articles from https://the-masters-voice.com/, https://anamihalceamdphd.substack.com/archive, https://chemtrails.substack.com/archive
 
 [Intro]
 (Triumphant horns, building)

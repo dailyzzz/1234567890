@@ -1,5 +1,6 @@
 SONG 359: "The Boiling Pot"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Bubbling, boiling sounds)

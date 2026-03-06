@@ -1,5 +1,6 @@
 SONG 432: "Run America Run (Alt)"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Running footsteps, urgency)

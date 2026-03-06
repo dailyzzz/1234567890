@@ -1,5 +1,6 @@
 SONG 428: "Who Is Worthy (Alt)"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Throne room worship)

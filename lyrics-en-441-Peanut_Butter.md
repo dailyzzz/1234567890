@@ -1,5 +1,6 @@
 SONG 441: "Peanut Butter"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Scraping jar sounds)

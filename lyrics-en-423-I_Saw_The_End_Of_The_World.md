@@ -1,5 +1,6 @@
 SONG 423: "I Saw The End Of The World"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Apocalyptic sounds)

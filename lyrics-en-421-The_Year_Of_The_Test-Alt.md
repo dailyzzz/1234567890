@@ -1,5 +1,6 @@
 SONG 422: "The Year Of The Test (Alt)"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Testing sounds, examination)

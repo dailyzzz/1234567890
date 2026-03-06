@@ -1,5 +1,6 @@
 SONG 420: "The Fire Pit (Alt)"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Roaring flames)

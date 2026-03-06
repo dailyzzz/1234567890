@@ -1,5 +1,6 @@
 SONG 376: "A Word For Germany (Alt)"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (German atmosphere, then thunder)

@@ -1,5 +1,6 @@
 SONG 450: "Synthetics Walk Among Us (Alt)"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Robot/humanoid sounds)

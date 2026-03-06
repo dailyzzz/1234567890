@@ -1,5 +1,6 @@
 SONG 438: "The Breakdown Of Everything (Alt)"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Systems failing sounds)

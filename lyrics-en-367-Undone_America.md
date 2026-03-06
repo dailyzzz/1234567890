@@ -1,5 +1,6 @@
 SONG 367: "Undone America"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Unraveling sounds)

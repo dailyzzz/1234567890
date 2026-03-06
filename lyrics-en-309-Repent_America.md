@@ -1,5 +1,6 @@
 SONG 309: "Repent America"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Church bells, then thunder)

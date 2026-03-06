@@ -1,5 +1,6 @@
 SONG 292: "Demons Walk New York (Alt)"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (City ambience, unsettling)

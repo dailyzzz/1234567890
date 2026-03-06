@@ -1,5 +1,6 @@
 SONG 265: "New York Will Drown"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Rain and thunder)

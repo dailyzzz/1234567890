@@ -1,5 +1,6 @@
 SONG 321: "Strange Flesh"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Disturbing whispers)

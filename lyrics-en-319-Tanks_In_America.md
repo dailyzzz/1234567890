@@ -1,5 +1,6 @@
 SONG 319: "Tanks In America"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Tank treads, military vehicles)

@@ -1,5 +1,6 @@
 SONG 253: "The Nephilim Return"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Deep ominous bass tones)

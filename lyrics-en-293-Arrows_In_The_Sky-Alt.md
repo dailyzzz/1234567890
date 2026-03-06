@@ -1,5 +1,6 @@
 SONG 294: "Arrows In The Sky (Alt)"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Missile launch sounds)

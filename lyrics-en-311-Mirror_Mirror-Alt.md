@@ -1,5 +1,6 @@
 SONG 312: "Mirror Mirror (Alt)"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Russian anthem style music)

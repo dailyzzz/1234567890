@@ -1,5 +1,6 @@
 SONG 395: "The Hub"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Intelligence gathering sounds)

@@ -1,5 +1,6 @@
 SONG 433: "Build My House"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Construction sounds)

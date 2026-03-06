@@ -1,5 +1,6 @@
 SONG 343: "The Fig And The Seeds"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Nature sounds, then ominous)

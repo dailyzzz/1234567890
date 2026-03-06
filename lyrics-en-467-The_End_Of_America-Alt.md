@@ -1,5 +1,6 @@
 SONG 468: "The End Of America (Alt)"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Flatline, then silence)

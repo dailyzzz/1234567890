@@ -1,5 +1,6 @@
 SONG 299: "Gog And Magog"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (War drums, ancient horns)

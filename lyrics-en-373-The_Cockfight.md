@@ -1,5 +1,6 @@
 SONG 373: "The Cockfight"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Roosters fighting, political sounds)

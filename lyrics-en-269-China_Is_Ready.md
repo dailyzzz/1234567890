@@ -1,5 +1,6 @@
 SONG 269: "China Is Ready"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Chinese military drums)

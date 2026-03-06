@@ -1,5 +1,6 @@
 SONG 364: "Wicked Devices Of Satan (Alt)"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Sinister plotting sounds)

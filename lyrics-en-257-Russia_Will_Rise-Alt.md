@@ -1,5 +1,6 @@
 SONG 258: "Russia Will Rise (Alt)"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Military drums and Orthodox choir)

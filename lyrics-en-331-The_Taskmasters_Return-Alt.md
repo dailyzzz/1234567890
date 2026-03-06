@@ -1,5 +1,6 @@
 SONG 332: "The Taskmasters Return (Alt)"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Whips cracking, orders shouted)

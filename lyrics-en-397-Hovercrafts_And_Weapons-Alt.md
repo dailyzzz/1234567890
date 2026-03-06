@@ -1,5 +1,6 @@
 SONG 398: "Hovercrafts And Weapons (Alt)"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Futuristic vehicle sounds)

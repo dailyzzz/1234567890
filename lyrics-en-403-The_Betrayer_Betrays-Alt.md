@@ -1,5 +1,6 @@
 SONG 404: "The Betrayer Betrays (Alt)"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Conspiracy sounds)

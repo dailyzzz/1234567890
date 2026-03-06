@@ -1,5 +1,6 @@
 SONG 405: "From Underground"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Subway sounds, then rumbling)

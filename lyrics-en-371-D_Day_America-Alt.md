@@ -1,5 +1,6 @@
 SONG 372: "D Day America (Alt)"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Beach invasion sounds)

@@ -1,5 +1,6 @@
 SONG 282: "Civil War Coming (Alt)"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Distant gunfire, shouting)

@@ -1,5 +1,6 @@
 SONG 383: "The Ways Of A King"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Throne room sounds)

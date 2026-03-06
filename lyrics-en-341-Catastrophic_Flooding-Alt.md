@@ -1,5 +1,6 @@
 SONG 342: "Catastrophic Flooding (Alt)"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Rushing waters, rain)

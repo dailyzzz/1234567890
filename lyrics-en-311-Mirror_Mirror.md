@@ -1,5 +1,6 @@
 SONG 311: "Mirror Mirror"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Russian anthem style music)

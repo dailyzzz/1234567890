@@ -1,5 +1,6 @@
 SONG 385: "Light It Up"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Matches striking, fire starting)

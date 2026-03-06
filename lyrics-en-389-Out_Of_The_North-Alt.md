@@ -1,5 +1,6 @@
 SONG 390: "Out Of The North (Alt)"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Arctic winds, approaching armies)

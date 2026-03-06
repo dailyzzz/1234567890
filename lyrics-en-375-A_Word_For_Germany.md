@@ -1,5 +1,6 @@
 SONG 375: "A Word For Germany"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (German atmosphere, then thunder)

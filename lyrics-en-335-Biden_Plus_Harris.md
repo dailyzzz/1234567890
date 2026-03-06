@@ -1,5 +1,6 @@
 SONG 335: "Biden Plus Harris"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Political speech sounds, then silence)

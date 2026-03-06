@@ -1,5 +1,6 @@
 SONG 371: "D Day America"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Beach invasion sounds)

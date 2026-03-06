@@ -1,5 +1,6 @@
 SONG 370: "The Cost Of Staying Alive (Alt)"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Survival sounds, difficult breathing)

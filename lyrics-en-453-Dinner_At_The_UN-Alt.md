@@ -1,5 +1,6 @@
 SONG 454: "Dinner At The UN (Alt)"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Diplomatic dinner sounds)

@@ -1,5 +1,6 @@
 SONG 436: "The Rainbow And Men (Alt)"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Rainbow imagery, then storm)

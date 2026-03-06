@@ -1,5 +1,6 @@
 SONG 287: "The Beast Is Here"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Ominous throne room sounds)

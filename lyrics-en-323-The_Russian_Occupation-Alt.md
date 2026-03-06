@@ -1,5 +1,6 @@
 SONG 324: "The Russian Occupation (Alt)"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Russian speech, orders shouted)

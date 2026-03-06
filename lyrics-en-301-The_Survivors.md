@@ -1,5 +1,6 @@
 SONG 301: "The Survivors"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Wind, distant echoes)

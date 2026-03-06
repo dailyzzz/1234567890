@@ -1,5 +1,6 @@
 SONG 323: "The Russian Occupation"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Russian speech, orders shouted)

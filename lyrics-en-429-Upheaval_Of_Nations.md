@@ -1,5 +1,6 @@
 SONG 429: "Upheaval Of Nations"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Global chaos sounds)

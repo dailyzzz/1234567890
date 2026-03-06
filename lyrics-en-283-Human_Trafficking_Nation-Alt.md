@@ -1,5 +1,6 @@
 SONG 284: "Human Trafficking Nation (Alt)"
 
+Lyrics created with AI after having it read articles from the-masters-voice.com
 
 [Intro]
 (Dark, tense music)
